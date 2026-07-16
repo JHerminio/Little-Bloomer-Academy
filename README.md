@@ -16,4 +16,4 @@ A warm, gentle, and modern landing page designed and developed for **Little Bloo
 
 *   **[📁 View Project Files on Google Drive](https://drive.google.com/drive/folders/1C9hBrZlFodfG7HI0v4-XEZVcvDwf1bO5?usp=drive_link)** — Access the raw design assets, high-res mockups, and export files.
 *   **[🌐 Live Website Demo](https://jherminio.github.io/little-bloomer-academy/)** — Experience the live, fully responsive landing page in your browser.
-**[💻 Live Demo / Repository](https://github.com/JHerminio/little-bloomer-academy)** — Check out the code implementation or live landing page.
+* **[💻 Live Demo / Repository](https://github.com/JHerminio/little-bloomer-academy)** — Check out the code implementation or live landing page.
